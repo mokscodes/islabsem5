@@ -1,4 +1,4 @@
-// 10)HASHING
+// HASHING
 def hash_function(input_string):
     hash_value = 5381
     for char in input_string:
