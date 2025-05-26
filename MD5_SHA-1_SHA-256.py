@@ -1,4 +1,4 @@
-// 11)MD5,SHA-1, and SHA-256 
+// MD5,SHA-1, and SHA-256 
 import time
 import random
 import string
