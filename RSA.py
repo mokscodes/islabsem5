@@ -1,4 +1,3 @@
-// 9)RSA
 def encrypt_rsa(message, n, e):
     # Encrypt the message
     encrypted_message = []
