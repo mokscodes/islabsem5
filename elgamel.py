@@ -1,4 +1,3 @@
-//7)ELGAMAL
 # ElGamal Encryption
 def elgamal_encrypt(p, g, h, message):
     import random
